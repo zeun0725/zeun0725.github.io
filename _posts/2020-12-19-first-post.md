@@ -3,20 +3,12 @@ title: "Welcome to jieun's blog!"
 date: 2020-12-19 15:15:28 -0400
 categories: jieun update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+github 계정의 dev 블로그를 만들었다.
+앞으로 개발을 하며 생긴 이슈, 공유하고 싶은 기술들을 이 곳에 적을 예정이다.
+개발이 취미가 된, 개발이 즐거운 개발자입니다. 반갑습니다. :)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
+```python
 def print_hi(name):
   print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+print_hi('Person')
+```
