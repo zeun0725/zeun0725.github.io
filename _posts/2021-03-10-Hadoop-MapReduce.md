@@ -1,7 +1,7 @@
 ---
 title: "Hadoop - MapReduce"
 date: 2021-03-10 22:30:00 -0400
-categories: hadoop mapreduce 
+categories: hadoop mapreduce
 ---
 # 하둡 완벽 가이드: 2장 맵리듀스
 
@@ -11,7 +11,7 @@ categories: hadoop mapreduce
 
 대표적인 대용량 데이터 처리를 위한 병렬 처리 기법
 
-![mapreduce](../Untitled.png)
+![mapreduce](../_img/mapreduce.png)
 
 ## 맵리듀스를 활용하여 기상 데이터 셋 분석하기
 
@@ -166,7 +166,7 @@ A) 자동으로 다른 노드를 재할당하여 다시 실행 됨.
 
 **리듀스태스크는 모든 맵의 결과를 입력으로 받으므로 데이터 지역성의 장점이 없다**
 
-![rack](../Untitled 1.png)
+![rack](../_img/data_locality.png)
 
 ### 태스크 결과
 
@@ -182,11 +182,11 @@ Reduce
 
 **리듀스 태스크가 하나일 경우**
 
-![reduce](../Untitled 2.png)
+![reduce](../_img/reduce_1.png)
 
 **리듀스 태스크가 여럿일 경우**
 
-![reduce](../Untitled 3.png)
+![reduce](../_img/reduce_2.png)
 
 리듀스가 여럿이면 맵 태스크는 리듀스 수만큼 파티션을 생성하고 맵의 결과를 각 파티션에 분배.
 
