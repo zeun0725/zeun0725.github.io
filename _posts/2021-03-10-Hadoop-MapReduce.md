@@ -11,7 +11,7 @@ categories: hadoop mapreduce
 
 대표적인 대용량 데이터 처리를 위한 병렬 처리 기법
 
-![mapreduce](../_img/mapreduce.png)
+![mapreduce](https://user-images.githubusercontent.com/26589907/110638072-75e55f80-81f1-11eb-805b-e183ddce63c0.png)
 
 ## 맵리듀스를 활용하여 기상 데이터 셋 분석하기
 
@@ -166,7 +166,7 @@ A) 자동으로 다른 노드를 재할당하여 다시 실행 됨.
 
 **리듀스태스크는 모든 맵의 결과를 입력으로 받으므로 데이터 지역성의 장점이 없다**
 
-![rack](../_img/data_locality.png)
+![rack](https://user-images.githubusercontent.com/26589907/110638087-78e05000-81f1-11eb-9e35-cd3cedcd45c0.png)
 
 ### 태스크 결과
 
@@ -182,11 +182,11 @@ Reduce
 
 **리듀스 태스크가 하나일 경우**
 
-![reduce](../_img/reduce_1.png)
+![reduce](https://user-images.githubusercontent.com/26589907/110638100-7bdb4080-81f1-11eb-9fe3-0d17ffe5b315.png)
 
 **리듀스 태스크가 여럿일 경우**
 
-![reduce](../_img/reduce_2.png)
+![reduce](https://user-images.githubusercontent.com/26589907/110638110-7e3d9a80-81f1-11eb-9013-5a792ec011bd.png)
 
 리듀스가 여럿이면 맵 태스크는 리듀스 수만큼 파티션을 생성하고 맵의 결과를 각 파티션에 분배.
 
