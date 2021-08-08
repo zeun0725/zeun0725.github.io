@@ -1,7 +1,7 @@
 ---
 title: "New year's resolution 2021"
 date: 2021-01-04 00:00:00 -0400
-categories: coding plan
+categories: DIARY
 ---
 ### 2021년 신년 목표  
 새해 맞이 나의 개발 역량을 높이기 위한 계획을 세우기로 했다.
@@ -14,10 +14,9 @@ categories: coding plan
   - ES 사용해보기
   - AWS 사용해보기
   - 일주일에 3번 이상은 github commit 하기 (어느 한 달은 데일리 커밋 해보기)
- 
+
 
 단순하게 나열한 느낌이 없지않아 있지만.. 크크크  
 내 계획이 언제 바뀔지 모르기에.. 우선적으로 이렇게만 나열해보려 한다.  
 꼭.. 저 목표 중 3개 이상은 이루고 싶다.   
 화이팅!  
-

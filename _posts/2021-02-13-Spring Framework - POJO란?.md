@@ -1,9 +1,9 @@
 ---
 title: "Spring Framework - POJO란?"
 date: 2021-02-13 00:00:00 -0400
-categories: spring java
+categories: JAVA
 ---
-### POJO(Plain Old Java Object)란? 
+### POJO(Plain Old Java Object)란?
 #### 특정 규약에 종속되지 않는 자바 객체
 
 ##### POJO 개념을 사용하지 않은 예시 (특정 환경에 결합도가 높은 코드)  
@@ -46,4 +46,3 @@ _@JmsListener 라는 어노테이션을 이용해 JMS 서비스와 연동함_
   - 특정 규약에 종속되지 않는다.
   - 특정 환경에 종속되지 않는다.
   - 단일 책임 원칙을 지키는 클래스
- 
