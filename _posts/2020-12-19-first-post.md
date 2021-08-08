@@ -1,7 +1,7 @@
 ---
 title: "Welcome to jieun's blog!"
 date: 2020-12-19 15:15:28 -0400
-categories: DIARY
+categories: [DIARY]
 ---
 github 계정의 dev 블로그를 만들었다!
 앞으로 개발을 하며 생긴 이슈, 공유하고 싶은 기술들을 이 곳에 적을 예정이다!

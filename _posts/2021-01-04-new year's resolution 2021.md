@@ -1,7 +1,7 @@
 ---
 title: "New year's resolution 2021"
 date: 2021-01-04 00:00:00 -0400
-categories: DIARY
+categories: [DIARY]
 ---
 ### 2021년 신년 목표  
 새해 맞이 나의 개발 역량을 높이기 위한 계획을 세우기로 했다.
