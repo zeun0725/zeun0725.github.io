@@ -1,7 +1,7 @@
 ---
 title: "Spring Framework - POJO란?"
 date: 2021-02-13 00:00:00 -0400
-categories: [JAVA]
+categories: [java]
 ---
 ### POJO(Plain Old Java Object)란?
 #### 특정 규약에 종속되지 않는 자바 객체

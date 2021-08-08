@@ -1,7 +1,7 @@
 ---
 title: "Hadoop - MapReduce"
 date: 2021-03-10 22:30:00 -0400
-categories: [HADOOP]
+categories: [hadoop]
 ---
 # 하둡 완벽 가이드: 2장 맵리듀스
 
