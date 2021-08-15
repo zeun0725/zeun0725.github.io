@@ -1,5 +1,5 @@
 ---
-title: "ES-01: 검색 시스템 이해하기"
+title: "ES-01 검색 시스템 이해하기"
 date: 2021-08-15 18:10:00 -0400
 categories: [elasticsearch]
 ---
