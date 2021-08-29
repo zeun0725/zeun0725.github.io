@@ -1,6 +1,6 @@
---- 
-# do not remove 
---- 
+---
+# do not remove
+---
 
 @import 'normalize';
 @import 'code_style';
@@ -138,7 +138,7 @@ img {
 }
 
 .content {
-    margin: 1.4em auto;
+    margin: 1.0em auto;
     z-index: 0;
     background: var(--content_bg);
     position: relative;
@@ -186,7 +186,7 @@ img {
         margin-right: 1rem;
     }
 
-    
+
 
 ::-webkit-scrollbar {
     width: 8px;
@@ -358,7 +358,7 @@ img {
     font-weight: 700;
 }
 
-.theme_changer {   
+.theme_changer {
     cursor: pointer;
     input {
         display: none;
@@ -372,7 +372,7 @@ img {
             transition: box-shadow .5s ease 0s, transform .5s ease .1s;
 
             &:before {
-                
+
                 content: '';
                 width: inherit;
                 height: inherit;
@@ -383,7 +383,7 @@ img {
             }
 
             &:after {
-                
+
                 background: url('../img/s.png') no-repeat center;
                 border-radius: 50%;
                 content: '';
